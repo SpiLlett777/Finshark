@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AccountService/AccountService.csproj" />
+  <Project Path="PortfolioService/PortfolioService.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+  <Project Path="StockService/StockService.csproj" />
+</Solution>
